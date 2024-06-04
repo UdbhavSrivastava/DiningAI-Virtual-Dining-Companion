@@ -1,0 +1,183 @@
+Nutritional Information for Olive Grove's Menu:
+
+Tzatziki:
+- Calories: 120
+- Carbohydrates: 7g
+- Protein: 5g
+- Fat: 8g
+- Rich in: Calcium
+
+Dolmades:
+- Calories: 180
+- Carbohydrates: 15g
+- Protein: 4g
+- Fat: 12g
+- Rich in: Vitamin K
+
+Spanakopita:
+- Calories: 220
+- Carbohydrates: 18g
+- Protein: 6g
+- Fat: 14g
+- Rich in: Iron
+
+Saganaki:
+- Calories: 280
+- Carbohydrates: 10g
+- Protein: 12g
+- Fat: 20g
+- Rich in: Calcium
+
+Keftedes:
+- Calories: 250
+- Carbohydrates: 12g
+- Protein: 15g
+- Fat: 16g
+- Rich in: Vitamin B12
+
+Octopus Carpaccio:
+- Calories: 200
+- Carbohydrates: 5g
+- Protein: 20g
+- Fat: 10g
+- Rich in: Selenium
+
+Moussaka:
+- Calories: 350
+- Carbohydrates: 25g
+- Protein: 18g
+- Fat: 20g
+- Rich in: Vitamin A
+
+Gyros Platter:
+- Calories: 400
+- Carbohydrates: 30g
+- Protein: 22g
+- Fat: 22g
+- Rich in: Iron
+
+Grilled Mediterranean Sea Bass:
+- Calories: 300
+- Carbohydrates: 0g
+- Protein: 28g
+- Fat: 20g
+- Rich in: Omega-3 fatty acids
+
+Lamb Souvlaki:
+- Calories: 320
+- Carbohydrates: 15g
+- Protein: 25g
+- Fat: 18g
+- Rich in: Zinc
+
+Stuffed Eggplant:
+- Calories: 280
+- Carbohydrates: 20g
+- Protein: 10g
+- Fat: 16g
+- Rich in: Dietary Fiber
+
+Shrimp Santorini:
+- Calories: 340
+- Carbohydrates: 25g
+- Protein: 22g
+- Fat: 18g
+- Rich in: Vitamin C
+
+Baklava:
+- Calories: 250
+- Carbohydrates: 30g
+- Protein: 4g
+- Fat: 14g
+- Rich in: Copper
+
+Greek Yogurt with Honey and Walnuts:
+- Calories: 150
+- Carbohydrates: 12g
+- Protein: 8g
+- Fat: 10g
+- Rich in: Probiotics
+
+Loukoumades:
+- Calories: 180
+- Carbohydrates: 20g
+- Protein: 2g
+- Fat: 12g
+- Rich in: Magnesium
+
+Galaktoboureko:
+- Calories: 280
+- Carbohydrates: 35g
+- Protein: 6g
+- Fat: 16g
+- Rich in: Vitamin D
+
+Rizogalo:
+- Calories: 200
+- Carbohydrates: 25g
+- Protein: 4g
+- Fat: 10g
+- Rich in: Calcium
+
+Kataifi:
+- Calories: 220
+- Carbohydrates: 30g
+- Protein: 3g
+- Fat: 12g
+- Rich in: Vitamin E
+
+Traditional Greek Coffee:
+- Calories: 5
+- Carbohydrates: 1g
+- Protein: 0g
+- Fat: 0g
+- Rich in: Caffeine
+
+Ouzo:
+- Calories: 100
+- Carbohydrates: 5g
+- Protein: 0g
+- Fat: 0g
+- Rich in: Anethole
+
+Frappe:
+- Calories: 120
+- Carbohydrates: 15g
+- Protein: 2g
+- Fat: 5g
+- Rich in: Caffeine
+
+Retsina:
+- Calories: 150
+- Carbohydrates: 10g
+- Protein: 1g
+- Fat: 0g
+- Rich in: Resveratrol
+
+Traditional Greek Lemonade:
+- Calories: 80
+- Carbohydrates: 20g
+- Protein: 0g
+- Fat: 0g
+- Rich in: Vitamin C
+
+Mastiha Liqueur:
+- Calories: 120
+- Carbohydrates: 15g
+- Protein: 0g
+- Fat: 0g
+- Rich in: Chios mastic oil
+
+Frappé Freddo:
+- Calories: 150
+- Carbohydrates: 20g
+- Protein: 2g
+- Fat: 6g
+- Rich in: Caffeine
+
+Fresh Fruit Smoothie:
+- Calories: 180
+- Carbohydrates: 40g
+- Protein: 3g
+- Fat: 1g
+- Rich in: Vitamin A

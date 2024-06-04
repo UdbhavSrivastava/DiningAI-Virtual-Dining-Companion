@@ -1,0 +1,13 @@
+Shop Name: Olive Grove
+What we sell: Authentic Greek cuisine, including appetizers, entrees, desserts, and beverages
+
+Operating Hours:
+- Monday to Friday: 11:00 am - 10:00 pm
+- Saturday, Sunday, National Holidays: 12:00 pm - 8:00 pm
+
+Address:
+Olive Grove
+123 Main Street
+NY, USA
+
+Payment Methods: Cash, Credit Card, Apple Pay, Google Pay, Cashapp, Paypal
